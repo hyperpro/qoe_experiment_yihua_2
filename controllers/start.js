@@ -3,9 +3,9 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "output-57c1-1";
+const vid_folder = "output-57ca-1";
 var vid_path = "./videos/" + vid_folder;
-var video_url = "https://raw.githubusercontent.com/hyperpro/qoe_experiment_yihua_1/master/videos/" + vid_folder + "/";
+var video_url = "https://raw.githubusercontent.com/hyperpro/yihua_video_repo_1/master/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";
 var worst_quality = video_url + "2.mp4";
 
